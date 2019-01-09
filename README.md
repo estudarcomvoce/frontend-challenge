@@ -47,5 +47,5 @@ A solução deve ser entregue na forma de um link para o repositório hospedando
 
 ---
 Qualquer duvida entre em contato conosco.  
-Boa Sorte!
+Boa Sorte!  
 Equipe Estudar com Você

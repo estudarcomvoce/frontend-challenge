@@ -1,6 +1,6 @@
 Desafio de recrutamento de front-end
 ====================================
-Este repositório contem o desafio de recrutamento para a vaga de front-end da Estudar com Você.
+Este repositório contém o desafio de recrutamento para a vaga de front-end da Estudar com Você.
 
 Este desafio tem como objetivos avaliar seu conhecimento técnico, e como você lida com prazos, requisitos e com uma situação muito semelhante às que você enfrentará no trabalho.
 
@@ -9,13 +9,13 @@ Este desafio tem como objetivos avaliar seu conhecimento técnico, e como você 
 
 Seu objetivo será implementar um mockup da dashboard do nosso site.
 
-A dashboard é a nossa pagina principal, para o qual o aluno é levado após o login. Nela apresentamos todas as matérias para o aluno e ele pode explorar as matérias que oferecemos para a sua faculdade, e a partir dela chegar ao conteúdo que ele deseja estudar. Se você ja usou algum site de cursos online (eg. *Coursera, Khan Academy, duolingo...*) ou serviços de vídeo como *YouTube* ou *Netflix* você está familiarizado com a função que a dashboard desempenha.
+A dashboard é a nossa pagina principal, para o qual o aluno é levado após o login. Nela apresentamos todas as matérias para o aluno e ele pode explorar as matérias que oferecemos para a sua faculdade, e a partir dela chegar ao conteúdo que ele deseja estudar. Se você já usou algum site de cursos online (eg. *Coursera, Khan Academy, Duolingo...*) ou serviços de vídeo como *YouTube* ou *Netflix* você pode estar familiarizado com a função que a dashboard desempenha.
 
 <img src="./screens/dash.png" width="400"/>
 
 ## Detalhes
 
-Sua missão será criar um mockup da listagem de matérias, separadas entre matérias personalizadas e matérias gerais, uma matéria genérica é definido pela flag `generic`, se esta flag for `true` a matéria é geral, caso contrário ela é personalizada.
+Sua missão será criar um mockup da listagem de matérias, separadas entre matérias personalizadas (matérias que criamos para faculdades especificas), e matérias gerais. Uma matéria gerais é definido pela flag `generic`, se esta flag for `true` a matéria é geral, caso contrário ela é personalizada.
 
 Não se preocupe em reproduzir o design da nossa tela, ele está incluído apenas como inspiração, o que iremos analisar é como você parte de dados e cria uma tela a partir disso
 
@@ -33,8 +33,8 @@ Estamos fornecendo na pasta `assets` um json contendo uma lista de matérias.
 A sua solução será avaliada segundo os seguintes critérios
 
 - Funcionalidade
-- Qualidade do código ( organização, legibilidade, modularidade, controle de versão...)
-- Prazo (não estamos definindo um prazo no qual o desfio deve ser concluído, a solução que o candidato julgar como final e o tempo necessário pra se chegar a ela serão critérios de avaliação)
+- Qualidade do código (organização, legibilidade, modularidade, controle de versão...)
+- Prazo (não estamos definindo um prazo no qual o desfio deve ser concluído, a solução que o candidato julgar como final e o tempo necessário para se chegar a ela serão critérios de avaliação)
 
 Definimos também critérios que não são absolutamente necessários mas valem pontos extras:
 
@@ -43,8 +43,9 @@ Definimos também critérios que não são absolutamente necessários mas valem 
 
 ## Entregáveis
 
-A solução deve ser entregue na forma de um link para o repositório hospedando o seu código, o readme deve conter instruções de como executa-lo
+A solução deve ser entregue na forma de um link para o repositório hospedando o seu código, o readme deve conter instruções de como executá-lo
 
 ---
 Qualquer duvida entre em contato conosco.  
-Boa Sorte!!
+Boa Sorte!
+Equipe Estudar com Você
